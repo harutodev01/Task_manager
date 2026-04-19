@@ -1,0 +1,5 @@
+com\taskmanager\service\TaskService.class
+com\taskmanager\dto\TaskRequest.class
+com\taskmanager\model\Task.class
+com\taskmanager\controller\TaskController.class
+com\taskmanager\TaskManagerBackendApplication.class
